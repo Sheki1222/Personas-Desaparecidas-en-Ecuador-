@@ -1,4 +1,8 @@
 # Personas-Desaparecidas-en-Ecuador-
+Acciones realizadas para llegar al cumplimiento de la actividad
+
+<img width="432" height="354" alt="image"  center src="https://github.com/user-attachments/assets/3b5244e1-7efa-4aac-a8e2-8dd84c0c5385" />
+
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/b8cb70d5-ca22-4155-979a-2c4c9bd2fc29" />
 workspace en Databricks
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/c70c2f40-5ce3-49de-a68d-82cb42c8c0da" />
