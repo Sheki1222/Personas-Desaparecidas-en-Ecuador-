@@ -1,3 +1,10 @@
+ ## CASO ENTREGADO
+1.	Notebook o scripts de Spark 
+2.	README con pasos de ejecución.
+3.	Resultados (archivos/tablas) de las consultas seleccionadas, dentro del informe.
+4.	Informe con la estructura pedida (Introducción, Propuesta técnica, Metodología, Validación y análisis, Conclusiones) y discusión de hallazgos.
+
+
 # Personas-Desaparecidas-en-Ecuador-
 
 
